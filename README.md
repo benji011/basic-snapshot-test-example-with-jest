@@ -1,4 +1,4 @@
-# Basic snapshot test with Jest
+# Basic snapshot test example with Jest
 
 <p align="center">
     <img src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png"/>
